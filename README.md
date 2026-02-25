@@ -7,7 +7,7 @@ A sleek, web-based UI for **JobSpy** - Search across LinkedIn, Indeed, Glassdoor
 
 ---
 
-## ✨ Features
+##  Features
 
 * **🔍 Multi-Select Search:** Scrape LinkedIn, Indeed, Glassdoor, Google, ZipRecruiter, and more simultaneously.
 * **📊 Clean Dataframe:** View your results in a clean table and search by location, search term and optional google search term.
@@ -34,16 +34,11 @@ Install dependencies:
    streamlit run app.py
 ```
 
-🖥️ Usage
-Enter your Job Title (e.g., "Software Engineer").
+## 🖥️ Screenshot
+<img width="1275" height="628" alt="Screenshot 2026-02-25 at 1 49 06 AM" src="https://github.com/user-attachments/assets/787a0cf4-07c4-45fe-a239-1e1084c35d1d" />
 
-Enter your Location (e.g., "Remote" or "Austin, TX").
 
-Select the Job Boards you want to target.
 
-(Optional) Add your Proxy settings in the sidebar to avoid being rate-limited.
-
-Hit Search and watch the data roll in! 📈
 
 🛡️ Legal & Privacy
 This tool is for educational and personal use only. Please respect the Terms of Service of the job boards being scraped. Frequent or aggressive scraping may result in IP bans.
