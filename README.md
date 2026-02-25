@@ -40,10 +40,10 @@ Install dependencies:
 
 
 
-🛡️ Legal & Privacy
+## Legal & Privacy
 This tool is for educational and personal use only. Please respect the Terms of Service of the job boards being scraped. Frequent or aggressive scraping may result in IP bans.
 
-Credits & License
+## Credits & License
 This project is built using the following open-source tools:
 
 JobSpy - The engine behind the scraping (MIT License).
