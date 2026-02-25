@@ -27,9 +27,9 @@ Install dependencies:
 
  ```bash
    pip install streamlit python-jobspy pandas
-   Run the App:
 ```
 
+   Run the App:
  ```bash
    streamlit run app.py
 ```
